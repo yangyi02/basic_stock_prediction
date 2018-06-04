@@ -1,0 +1,6 @@
+Chinese_Stocks.h5
+stocks_by_name/
+stocks_by_date/
+.ipynb_checkpoints/
+tensorboard/
+*.pth
